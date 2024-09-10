@@ -31,6 +31,7 @@
 
 # Chi tiết đề tài
 <div>
+  <h3>AI: Gợi ý sản phẩm dựa trên tìm kiếm người dùng</h3>
   <h3>Website</h3>
   <h4>Các chức năng</h4>
   <ol>
@@ -43,6 +44,15 @@
     </ul>
     <li>Thanh toán</li>
     <li>Trang admin</li>
+  </ol>
+
+  <h3>Application</h3>
+  <h4>Các chức năng</h4>
+  <ol>
+    <li>Quản lý tài khoản</li>
+    <li>QUẢN Lý sản phẩm</li>
+    <li>Quản lý hóa đơn</li>
+    <li>Thống kê báo cáo</li>
   </ol>
   <h4>Sơ đồ tổng quan</h4>
 </div>
