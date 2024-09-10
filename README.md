@@ -26,12 +26,12 @@
 
 <h3>Languages: C#, HTML, CSS, Javascript</h3>
 <h3>Framework: ASP.NET</h3>
-<h3>Tools: Github, Git</h3>
+<h3>Tools: Github</h3>
 <h3>Database: SQL Server</h3>
 
 # Chi tiết đề tài
 <div>
-  <h3>AI: Gợi ý sản phẩm dựa trên tìm kiếm người dùng</h3>
+  <h3>AI: </h3>
   <h3>Website</h3>
   <h4>Các chức năng</h4>
   <ol>
@@ -43,14 +43,18 @@
       <li>Lọc sản phẩm</li>
     </ul>
     <li>Thanh toán</li>
-    <li>Trang admin</li>
+    <li>Trang đơn hàng</li>
+    <li>Trang cập nhật thông tin người dùng</li>
   </ol>
 
   <h3>Application</h3>
   <h4>Các chức năng</h4>
   <ol>
     <li>Quản lý tài khoản</li>
-    <li>QUẢN Lý sản phẩm</li>
+    <li>Quản Lý sản phẩm</li>
+    <li>Quản lý danh mục sản phẩm</li>
+    <li>Quản lý hóa đơn</li>
+    <li>Quản lý nhà cung cấp</li>
     <li>Quản lý hóa đơn</li>
     <li>Thống kê báo cáo</li>
   </ol>
