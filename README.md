@@ -55,7 +55,7 @@
     <li>Quản lý danh mục sản phẩm</li>
     <li>Quản lý hóa đơn</li>
     <li>Quản lý nhà cung cấp</li>
-    <li>Quản lý hóa đơn</li>
+    <li>Quản lý đơn hàng</li>
     <li>Thống kê báo cáo</li>
   </ol>
   <h4>Sơ đồ tổng quan</h4>
