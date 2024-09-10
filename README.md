@@ -25,7 +25,7 @@
 # Công nghệ sử dụng
 
 <h3>Languages: C#, HTML, CSS, Javascript</h3>
-<h3>Framework: ASP.NET</h3>
+<h3>Framework: ASP.NET, Bootstrap</h3>
 <h3>Tools: Github</h3>
 <h3>Database: SQL Server</h3>
 
