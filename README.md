@@ -36,6 +36,11 @@
   <ol>
     <li>Đăng ký, đăng nhập</li>
     <li>Trang sản phẩm</li>
+    <ul>
+      <li>Xem chi tiết sản phẩm</li>
+      <li>Tìm kiếm sản phẩm</li>
+      <li>Lọc sản phẩm</li>
+    </ul>
     <li>Thanh toán</li>
     <li>Trang admin</li>
   </ol>
